@@ -1,0 +1,15 @@
+name: cs5330_pa0
+channels:
+- defaults
+- conda-forge
+dependencies:
+- numpy
+- jupyter
+- matplotlib
+- pip
+- pytest
+- python=3.6
+- pyyaml
+- opencv=3.4.2
+- colour
+- scipy
